@@ -36,6 +36,20 @@ The installer pulls prebuilt Docker images and brings the app up with a single c
 - **Team collaboration (Team):** multiple users with roles and permissions, a shared finding library, and audit logs.
 - An optional [Model Context Protocol server](https://github.com/nullreport/mcp) that lets an AI client like Claude or Cursor drive your instance in natural language.
 
+---
+
+<div align="center">
+
+## Help shape NullReport
+
+**Built for penetration testers, by listening to them.** Want a feature, or hit a bug? Tell us, it shapes what gets built next.
+
+### [Request a feature](https://github.com/nullreport/feedback/issues/new?template=feature_request.md) &nbsp;·&nbsp; [Report a bug](https://github.com/nullreport/feedback/issues/new?template=bug_report.md) &nbsp;·&nbsp; [Browse and upvote ideas](https://github.com/nullreport/feedback)
+
+</div>
+
+---
+
 ## Pricing
 
 | Tier | Price | Includes |
@@ -53,6 +67,6 @@ The application source is commercial and stays private. The pieces you run on yo
 - [**install**](https://github.com/nullreport/install) — the installer, update script, and Docker Compose files.
 - [**mcp**](https://github.com/nullreport/mcp) — the local MCP server, published to npm as `nullreport-mcp`.
 
-## Support
+## Feedback and support
 
-Questions, bug reports, and feature requests all go to **support@nullreport.app** (licensing and privacy requests too). Documentation is at [docs.nullreport.app](https://docs.nullreport.app).
+Bugs and feature requests go to the **[feedback tracker](https://github.com/nullreport/feedback)**: open an issue or upvote an existing one. For help, licensing, billing, or anything private, email **support@nullreport.app**. Documentation is at [docs.nullreport.app](https://docs.nullreport.app).
