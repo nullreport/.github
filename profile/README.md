@@ -31,9 +31,9 @@ The installer pulls prebuilt Docker images and brings the app up with a single c
 - A reusable finding library so you stop rewriting the same writeups every engagement.
 - Per-report dynamic fields. Every engagement is different, so each report lets you define your own named fields once, whether that is a client contact, an assessment window, or a custom risk rating, and reference them anywhere in your template. The export fills them in for you.
 - One-click export to a polished Word (DOCX) document.
-- Finding and report templates with a simple placeholder syntax. Custom report templates are a Pro feature.
+- Finding and report templates with a simple placeholder syntax. Free includes one custom report template; Pro and Team are unlimited.
 - **AI assistance (Pro):** drafts and polishes findings with the provider you choose. Point it at a local model and nothing leaves your network, or connect OpenAI, Anthropic, or Gemini if you prefer.
-- **Team collaboration (Team):** multiple users with roles and permissions, a shared finding library, and audit logs.
+- **Team collaboration (Team):** multiple users with roles and permissions, report assignment, comments, activity history, and real-time presence.
 - An optional [Model Context Protocol server](https://github.com/nullreport/mcp) that lets an AI client like Claude or Cursor drive your instance in natural language.
 
 ---
@@ -55,8 +55,8 @@ The installer pulls prebuilt Docker images and brings the app up with a single c
 | Tier | Price | Includes |
 |---|---|---|
 | **Free** | $0 | Unlimited reports, finding library, dynamic fields, and DOCX export. One user, fully self-hosted. |
-| **Pro** | $39 / month | Everything in Free, plus AI assistance, custom report templates, and priority support. One user. |
-| **Team** | $99 / month | Everything in Pro, plus collaboration for multiple users, a shared finding library, and audit logs. Three seats included, thirty dollars per extra seat. |
+| **Pro** | $39 / month | Everything in Free, plus AI assistance, unlimited custom report templates, and email support. One user. |
+| **Team** | $99 / month | Everything in Pro, plus multi-user collaboration: roles and permissions, report assignment, comments, activity history, and real-time presence. Three seats included, thirty dollars per extra seat. |
 
 See [nullreport.app](https://nullreport.app) for the full feature comparison.
 
